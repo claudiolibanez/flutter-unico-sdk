@@ -1,0 +1,16 @@
+{
+  "project_info": {
+    "project_number": "55085324891253416698879",
+    "project_id": "P2xPay"
+  },
+  "client_info": {
+    "mobilesdk_app_id": "2:442247:ios",
+    "ios_client_info": {
+      "bundle_identifier": "br.com.p2xpay.app"
+    }
+  },
+  "host_info": {
+    "host_info": "nRMqSJJeWMZ0K4n9Dxs/Zhb5RslAxes+pmH0gJgmVtZImMYBRmw3bx3E0ehCDJnY",
+    "host_key": "yMDlm6sqtnpx6fXClInnKG+xsBKSgr//wdN+WonRSGORNgRnYfkjQJRDy2FBy2Kj"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "project_info": {
+    "project_number": "55085324891253416698879",
+    "project_id": "P2xPay",
+    "project_j_apikey": "j_55c0b8c5-32dd-4891-b25c-341c669887b9"
+  },
+  "client_info": {
+    "mobilesdk_app_id": "1:442247:android",
+    "android_client_info": {
+      "package_name": "br.com.p2xpay.app"
+    }
+  },
+  "host_info": {
+    "host_info": "nRMqSJJeWMZ0K4n9Dxs/Zhb5RslAxes+pmH0gJgmVtZImMYBRmw3bx3E0ehCDJnY",
+    "host_key": "yMDlm6sqtnpx6fXClInnKG+xsBKSgr//wdN+WonRSGORNgRnYfkjQJRDy2FBy2Kj"
+  }
+}
